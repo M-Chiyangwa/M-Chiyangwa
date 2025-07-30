@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M-Chiyangwa
-- 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on data analytics projects
+- 🌱 I’m an aspiring data analyst
+- 💞 Find my projects here
 
 <!---
 M-Chiyangwa/M-Chiyangwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
